@@ -1,0 +1,15 @@
+import React from 'react';
+export const AlertCircle = (p) => React.createElement('svg', { 'data-icon': 'AlertCircle', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const ArrowLeft = (p) => React.createElement('svg', { 'data-icon': 'ArrowLeft', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const ArrowRight = (p) => React.createElement('svg', { 'data-icon': 'ArrowRight', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const Box = (p) => React.createElement('svg', { 'data-icon': 'Box', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const Check = (p) => React.createElement('svg', { 'data-icon': 'Check', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const CheckCircle2 = (p) => React.createElement('svg', { 'data-icon': 'CheckCircle2', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const ChevronDown = (p) => React.createElement('svg', { 'data-icon': 'ChevronDown', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const Lock = (p) => React.createElement('svg', { 'data-icon': 'Lock', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const LogOut = (p) => React.createElement('svg', { 'data-icon': 'LogOut', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const ShieldCheck = (p) => React.createElement('svg', { 'data-icon': 'ShieldCheck', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const Smartphone = (p) => React.createElement('svg', { 'data-icon': 'Smartphone', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const Store = (p) => React.createElement('svg', { 'data-icon': 'Store', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const TrendingUp = (p) => React.createElement('svg', { 'data-icon': 'TrendingUp', 'aria-hidden': p['aria-hidden'], className: p.className });
+export const Minus = (p) => React.createElement('svg', { 'data-icon': 'Minus' });
